@@ -1,0 +1,60 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/Charli3-Official/tCharli3/main/metadata/icon_64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/Charli3-Official/tCharli3/main/metadata/icon_64x64.png",
+        "location": "Canada",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "Charli3OfficialNetwork",
+            "facebook_handle": "",
+            "youtube_handle": "charli3oracles40",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "Charli3-Official"
+        },
+        "company": {
+            "name": "Charli3",
+            "addr": "",
+            "city": "Vancouver",
+            "country": "Canada",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "sustainability": ""
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "pool1trevp502sq5yv22l4gv46qkhyzmgv5smwqu8myjxeecwud7vmc9",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "1": {
+                "name": "relay 2",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "2": {
+                "name": "block producing node",
+                "type": "bp",
+                "key": "example_get_own_on_adapools.org/connect"
+            }
+        }
+    }
+}
