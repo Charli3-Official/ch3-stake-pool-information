@@ -1,0 +1,36 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/Charli3-Official/ch3-stake-pool-information/main/prime-mainnet-metadata/ch31/icon_64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/Charli3-Official/ch3-stake-pool-information/main/prime-mainnet-metadata/ch31/icon_64x64.png",
+        "location": "Canada",
+        "social": {
+            "twitter_handle": "Oraclecharli3",
+            "telegram_handle": "Charli3OfficialNetwork",
+            "youtube_handle": "@charli3oracles40",
+            "github_handle": "Charli3-Official"
+        },
+        "company": {
+            "name": "Charli3",
+            "city": "Vancouver",
+            "country": "Canada",
+            "company_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "sustainability": ""
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
+}
